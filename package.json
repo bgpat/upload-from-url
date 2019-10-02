@@ -1,7 +1,7 @@
 {
-  "name": "@bgpat/{{repo_name}}",
+  "name": "@bgpat/upload-from-url",
   "version": "0.0.1",
-  "description": "{{extension_description}}",
+  "description": "Select an input file from URL",
   "scripts": {
     "start": "webpack -w",
     "build": "webpack",
@@ -14,18 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bgpat/{{repo_name}}.git"
+    "url": "git+https://github.com/bgpat/upload-from-url.git"
   },
   "keywords": [
     "webextension",
     "firefox-addon"
   ],
   "author": "bgpat",
-  "license": "{{repo_license}}",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bgpat/{{repo_name}}/issues"
+    "url": "https://github.com/bgpat/upload-from-url/issues"
   },
-  "homepage": "https://github.com/bgpat/{{repo_name}}#readme",
+  "homepage": "https://github.com/bgpat/upload-from-url#readme",
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/plugin-proposal-class-properties": "^7.5.5",

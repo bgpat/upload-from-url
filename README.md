@@ -1,14 +1,14 @@
-# {{repo_name}}
+# upload-from-url
 
-[![Build Status](https://travis-ci.com/bgpat/{{repo_name}}.svg?branch=master)](https://travis-ci.com/bgpat/{{repo_name}})
+[![Build Status](https://travis-ci.com/bgpat/upload-from-url.svg?branch=master)](https://travis-ci.com/bgpat/upload-from-url)
 
-**{{repo_name}}** is 〜〜.
+**upload-from-url** is a WebExtension to select an input file from URL.
 
 ## Installation
 
 ### Firefox
 
-Go to https://addons.mozilla.org/ja/firefox/addon/{{firefox_extension_name}}/ and install to your browser.
+Go to https://addons.mozilla.org/ja/firefox/addon/upload-from-url/ and install to your browser.
 
 <!--
 #### Enable pretty icon (Optional)
@@ -20,7 +20,7 @@ Go to https://addons.mozilla.org/ja/firefox/addon/{{firefox_extension_name}}/ an
 
 ### Google Chrome
 
-Go to https://chrome.google.com/webstore/detail/{{chrome_extension_name}}/{{chrome_extension_id}}/ and install to your browser.
+Go to https://chrome.google.com/webstore/detail/upload-from-url/{{chrome_extension_id}}/ and install to your browser.
 
 ## Development
 
