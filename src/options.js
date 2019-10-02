@@ -14,9 +14,9 @@ variables.config.getAll().then(config => {
   */
 });
 
+/*
 hue.addEventListener('input', () => {
-  /*
   huePreview.style.fill = `hsl(${hue.value}, 100%, 50%)`;
-  */
   variables.config.set('hue', +hue.value);
 });
+*/
