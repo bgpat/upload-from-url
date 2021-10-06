@@ -43,7 +43,7 @@
     "lint-staged": "10.5.4",
     "prettier": "2.4.1",
     "sass-loader": "10.2.0",
-    "web-ext": "5.5.0",
+    "web-ext": "6.4.0",
     "web-ext-submit": "6.4.0",
     "webextension-polyfill": "0.6.0",
     "webpack": "5.57.1",
